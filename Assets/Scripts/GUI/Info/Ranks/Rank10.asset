@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21b95f80d4efde049b2f15994e210bdd, type: 3}
+  m_Name: Rank10
+  m_EditorClassIdentifier: 
+  titleText: 'RANK: Command Chief Master Sergeant of the Space Force (E-9)'
+  bodyText: Command Chief Master Sergeants serve as senior advisers to unit and base
+    commanders. CMCs advise the commander on all enlisted matters, including all
+    issues affecting the command's mission and operations, and the readiness, training,
+    utilization, morale, technical and professional development and quality of life
+    of all enlisted members in the organization.
+  footerText: 

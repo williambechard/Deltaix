@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21b95f80d4efde049b2f15994e210bdd, type: 3}
+  m_Name: Rank4
+  m_EditorClassIdentifier: 
+  titleText: 'RANK: Specialist 4 (E-4)'
+  bodyText: The rank of Specialist 4 is a transition period from journeyman to noncommissioned
+    officer (NCO). Specialist 4 Guardians in the Space Force are expected to conduct
+    themselves in accordance with established standards, providing a positive influence
+    and example for their subordinates and peers alike.
+  footerText: 
