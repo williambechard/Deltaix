@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21b95f80d4efde049b2f15994e210bdd, type: 3}
+  m_Name: Rank5
+  m_EditorClassIdentifier: 
+  titleText: 'RANK: Sergeant (E-5)'
+  bodyText: The Sergeant (Sgt.) is the first level of the noncommissioned officer
+    (NCO) ranks in the Space Force. The Sergeant is considered a craftsman with specific
+    NCO supervisory responsibilities and may hold either a 5- (journeyman) or 7-
+    (craftsman) skill level.
+  footerText: 

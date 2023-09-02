@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu/MainMenu.unity
+    guid: ff0549bb26aeacf48b32ad2fc7484841
+  - enabled: 1
+    path: Assets/Scenes/Menu/Credits.unity
+    guid: 407ff718208137843bcebba0758ba6e0
+  - enabled: 1
+    path: Assets/Scenes/Game/GameOverlay.unity
+    guid: 550b21e830eef864aa7cd0f9f086e490
+  - enabled: 1
+    path: Assets/Scenes/Game/Game.unity
+    guid: 8013c6e1dd16a2d4b8249c584622d640
+  - enabled: 1
+    path: Assets/Scenes/Global/AudioManager.unity
+    guid: c4c711bb48a174e338239bdef48eba11
+  - enabled: 1
+    path: Assets/Scenes/Global/EventManager.unity
+    guid: 91dfc4d0a99af5d498b534ebee53e9d3
+  - enabled: 1
+    path: Assets/Scenes/Global/InputManager.unity
+    guid: 3fd62fe4267496d4593f29fbe3e8dd24
+  - enabled: 1
+    path: Assets/Scenes/Global/LevelManager.unity
+    guid: 35ae0c7b76237462ba782accc040cc2a
+  - enabled: 1
+    path: Assets/Scenes/Game/Tutorial.unity
+    guid: b589a3423c2e3b44080ae6d53c959a23
+  m_configObjects: {}
